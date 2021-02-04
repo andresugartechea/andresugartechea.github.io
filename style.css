@@ -1,0 +1,25 @@
+html {
+	background-color: beige;
+	font-family: 'Open Sans', sans-serif;
+	background-image: url('media/image_project.png');
+	background-size: cover;	
+	background-repeat: no-repeat;
+}
+h1 {
+	color: #00008B;
+	background-color: lightblue
+}
+
+p {
+	color: rgb(255, 0, 255);
+}
+a {
+	color: red
+} 
+img {
+	margin: auto; 
+	display: block;
+}
+.here {
+	color: red
+}
